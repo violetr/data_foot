@@ -1,0 +1,183 @@
+x,y,end_x,end_y,playername,goal_id,pass_id,scorer,time,match_date,match_opponent
+111.3,69.7,116.4,41.8,Lionel Andrés Messi Cuccittini,1,1,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+100.4,52.7,109,68.4,Alejandro Darío Gómez,1,2,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+109,68.4,102.9,65.6,Lionel Andrés Messi Cuccittini,1,3,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+102.9,65.6,95.5,50.8,Lionel Andrés Messi Cuccittini,1,4,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+95.5,50.8,97.4,49.2,Alexis Mac Allister,1,5,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+97.4,49.2,106,52.6,Alexis Mac Allister,1,6,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+106,52.6,106.7,51.5,Nicolás Hernán Otamendi,1,7,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+106.7,51.5,105.2,49.2,Nicolás Hernán Otamendi,1,8,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+105.2,49.2,104.2,48.9,Lionel Andrés Messi Cuccittini,1,9,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+104.2,48.9,120,37.1,Lionel Andrés Messi Cuccittini,1,10,Lionel Andrés Messi Cuccittini,00:34:35.083,2022-12-03,Australia
+110.4,50.3,120,36.5,Julián Álvarez,2,1,Julián Álvarez,00:11:41.079,2022-12-03,Australia
+64.9,80,52.8,77.1,Nahuel Molina Lucero,3,1,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+53.3,77,37.1,52.6,Cristian Gabriel Romero,3,2,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+37.1,52.6,50.1,44.4,Nicolás Hernán Otamendi,3,3,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+50.1,44.4,63.1,21.7,Nicolás Hernán Otamendi,3,4,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+64.7,21.1,38.6,23.5,Marcos Javier Acuña,3,5,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+38.6,23.5,38.9,23.7,Lisandro Martínez,3,6,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+38.9,23.7,37.5,35.1,Lisandro Martínez,3,7,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+37.5,35.1,44.7,45.4,Nicolás Hernán Otamendi,3,8,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+44.7,45.4,57.5,75.4,Nicolás Hernán Otamendi,3,9,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+57.5,75.4,65.4,76.1,Cristian Gabriel Romero,3,10,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+65.4,76.1,73.1,76.3,Cristian Gabriel Romero,3,11,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+73.1,76.3,73.1,76.3,Lionel Andrés Messi Cuccittini,3,12,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+73.1,76.3,77.3,69,Lionel Andrés Messi Cuccittini,3,13,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+77.3,69,75.2,76.6,Rodrigo Javier De Paul,3,14,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+46,47.6,47.2,50.3,Nicolás Hernán Otamendi,3,15,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+47.2,50.3,57.8,69.2,Nicolás Hernán Otamendi,3,16,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+57.8,69.2,81.5,69.2,Nahuel Molina Lucero,3,17,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+81.5,69.2,74.2,71.1,Nahuel Molina Lucero,3,18,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+74.2,71.1,85.6,44.9,Lionel Andrés Messi Cuccittini,3,19,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+85.6,44.9,103.4,50.6,Lionel Andrés Messi Cuccittini,3,20,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+103.4,50.6,109.1,42.4,Nahuel Molina Lucero,3,21,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+109.1,42.4,120,36.5,Nahuel Molina Lucero,3,22,Nahuel Molina Lucero,00:34:04.090,2022-12-09,Netherlands
+41.8,59,53.1,61.8,Alexis Mac Allister,4,1,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+53.1,61.8,52.9,61.8,Lionel Andrés Messi Cuccittini,4,2,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+52.9,61.8,62.5,68.2,Lionel Andrés Messi Cuccittini,4,3,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+62.5,68.2,63.2,68.2,Julián Álvarez,4,4,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+63.2,68.2,99.3,54.9,Julián Álvarez,4,5,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+99.3,54.9,111.8,32.1,Alexis Mac Allister,4,6,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+111.8,32.1,120,41.7,Ángel Fabián Di María Hernández,4,7,Ángel Fabián Di María Hernández,00:35:22.647,2022-12-18,France
+42.8,72.5,43.2,74.4,Gonzalo Ariel Montiel,5,1,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+43.2,74.4,43.9,63.5,Gonzalo Ariel Montiel,5,2,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+43.9,63.5,44.1,56,Leandro Daniel Paredes,5,3,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+44.1,56,46,22,Leandro Daniel Paredes,5,4,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+46,22,42.6,15.1,Nicolás Alejandro Tagliafico,5,5,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+42.6,15.1,34.3,18.1,Nicolás Alejandro Tagliafico,5,6,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+34.3,18.1,33.2,23.9,Nicolás Hernán Otamendi,5,7,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+33.2,23.9,32.8,56.9,Nicolás Hernán Otamendi,5,8,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+32.8,56.9,32.3,61.8,Cristian Gabriel Romero,5,9,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+32.3,61.8,45.6,76.1,Cristian Gabriel Romero,5,10,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+45.6,76.1,50.1,73.5,Enzo Fernandez,5,11,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+50.1,73.5,110,60.3,Enzo Fernandez,5,12,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+42.8,43.4,43.2,46.2,Leandro Daniel Paredes,5,13,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+43.2,46.2,63.1,70.8,Leandro Daniel Paredes,5,14,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+63.1,70.8,64.2,74,Gonzalo Ariel Montiel,5,15,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+64.2,74,94.2,56.4,Gonzalo Ariel Montiel,5,16,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+94.2,56.4,91.2,58.8,Lautaro Javier Martínez,5,17,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+91.2,58.8,91.2,58.8,Lionel Andrés Messi Cuccittini,5,18,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+91.2,58.8,95.4,49.4,Lionel Andrés Messi Cuccittini,5,19,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+95.4,49.4,95.4,49.4,Enzo Fernandez,5,20,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+95.4,49.4,109.3,56.9,Enzo Fernandez,5,21,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+109.3,56.9,114.4,52,Lautaro Javier Martínez,5,22,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+114.4,52,118.7,44.1,Lautaro Javier Martínez,5,23,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+116.6,43,120,40.9,Lionel Andrés Messi Cuccittini,5,24,Lionel Andrés Messi Cuccittini,00:02:58.079,2022-12-18,France
+49.5,38.9,49.3,39.9,Enzo Fernandez,6,1,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+49.3,39.9,44.3,50.4,Enzo Fernandez,6,2,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+44.3,50.4,30,38.9,Rodrigo Javier De Paul,6,3,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+30,38.9,29.6,38.9,Cristian Gabriel Romero,6,4,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+29.6,38.9,30.6,20,Cristian Gabriel Romero,6,5,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+30.6,20,30.6,23.5,Nicolás Hernán Otamendi,6,6,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+30.6,23.5,24.9,46.8,Nicolás Hernán Otamendi,6,7,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+24.9,46.8,26.6,45.9,Cristian Gabriel Romero,6,8,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+26.6,45.9,33.6,19.6,Cristian Gabriel Romero,6,9,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+33.6,19.6,42.8,12.1,Nicolás Hernán Otamendi,6,10,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+42.8,12.1,61.7,1.6,Nicolás Hernán Otamendi,6,11,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+61.7,1.6,62.6,2,Marcos Javier Acuña,6,12,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+62.6,2,42,6.4,Marcos Javier Acuña,6,13,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+42,6.4,40.8,6.6,Nicolás Hernán Otamendi,6,14,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+40.8,6.6,35.9,14.8,Nicolás Hernán Otamendi,6,15,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+35.9,14.8,33.5,19.2,Enzo Fernandez,6,16,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+33.5,19.2,27,50.5,Enzo Fernandez,6,17,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+27,50.5,54,58.5,Cristian Gabriel Romero,6,18,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+54,58.5,74.7,53,Cristian Gabriel Romero,6,19,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+74.7,53,68.7,54.3,Lionel Andrés Messi Cuccittini,6,20,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+68.7,54.3,65.7,64.3,Lionel Andrés Messi Cuccittini,6,21,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+65.7,64.3,67.2,69,Rodrigo Javier De Paul,6,22,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+67.2,69,48.6,62.6,Rodrigo Javier De Paul,6,23,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+48.6,62.6,56.1,63.7,Cristian Gabriel Romero,6,24,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+56.1,63.7,75.1,67.7,Cristian Gabriel Romero,6,25,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+75.1,67.7,80.3,68.6,Nahuel Molina Lucero,6,26,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+80.3,68.6,92.7,73.5,Nahuel Molina Lucero,6,27,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+92.7,73.5,102.1,72,Ángel Fabián Di María Hernández,6,28,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+102.1,72,110.4,71.6,Ángel Fabián Di María Hernández,6,29,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+110.4,71.6,114.3,69.9,Nahuel Molina Lucero,6,30,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+114.3,69.9,106,46.7,Nahuel Molina Lucero,6,31,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+106,46.7,119.9,35.8,Alexis Mac Allister,6,32,Alexis Mac Allister,00:00:53.623,2022-11-30,Poland
+70.9,4.6,64,14.5,Nicolás Alejandro Tagliafico,7,1,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+64,14.5,62.9,17.3,Leandro Daniel Paredes,7,2,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+62.9,17.3,53.5,40.1,Leandro Daniel Paredes,7,3,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+53.5,40.1,54.2,42.7,Cristian Gabriel Romero,7,4,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+54.2,42.7,60.2,47.6,Cristian Gabriel Romero,7,5,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+60.2,47.6,62.3,53.4,Enzo Fernandez,7,6,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+62.3,53.4,68.5,64.5,Enzo Fernandez,7,7,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+68.5,64.5,70.9,69.2,Rodrigo Javier De Paul,7,8,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+70.9,69.2,75.1,63.5,Rodrigo Javier De Paul,7,9,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+74.9,63.9,71.5,68,Lionel Andrés Messi Cuccittini,7,10,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+71.5,68,71.9,68.4,Rodrigo Javier De Paul,7,11,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+71.9,68.4,71.1,56.2,Rodrigo Javier De Paul,7,12,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+71.1,56.2,70.6,55.8,Lionel Andrés Messi Cuccittini,7,13,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+70.6,55.8,66.4,41.2,Lionel Andrés Messi Cuccittini,7,14,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+66.4,41.2,62.5,42.3,Leandro Daniel Paredes,7,15,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+62.5,42.3,60.6,39.1,Enzo Fernandez,7,16,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+60.6,39.1,55.2,21.1,Enzo Fernandez,7,17,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+55.2,21.1,55.9,19.4,Nicolás Hernán Otamendi,7,18,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+55.9,19.4,73.6,2.7,Nicolás Hernán Otamendi,7,19,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+73.6,2.7,74.1,3.6,Nicolás Alejandro Tagliafico,7,20,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+74.1,3.6,68.5,11.5,Nicolás Alejandro Tagliafico,7,21,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+68.5,11.5,67,14.5,Leandro Daniel Paredes,7,22,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+67,14.5,57.8,25.8,Leandro Daniel Paredes,7,23,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+57.8,25.8,56.1,30.7,Enzo Fernandez,7,24,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+56.1,30.7,61.7,60,Enzo Fernandez,7,25,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+61.7,60,62.5,61.5,Rodrigo Javier De Paul,7,26,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+62.5,61.5,80.7,73.5,Rodrigo Javier De Paul,7,27,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+80.7,73.5,80.7,73.7,Nahuel Molina Lucero,7,28,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+80.7,73.7,69.8,69.9,Nahuel Molina Lucero,7,29,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+69.8,69.9,70,68.6,Rodrigo Javier De Paul,7,30,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+70,68.6,69.6,50.2,Rodrigo Javier De Paul,7,31,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+69.6,50.2,68.9,52.1,Lionel Andrés Messi Cuccittini,7,32,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+68.9,52.1,80.1,51.9,Lionel Andrés Messi Cuccittini,7,33,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+80.1,51.9,83.7,55.3,Lionel Andrés Messi Cuccittini,7,34,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+83.7,55.3,109.8,64.7,Lionel Andrés Messi Cuccittini,7,35,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+109.8,64.7,111.3,63,Nahuel Molina Lucero,7,36,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+111.3,63,93.7,54.3,Nahuel Molina Lucero,7,37,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+93.7,54.3,93.5,52.3,Rodrigo Javier De Paul,7,38,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+93.5,52.3,105.1,64.1,Rodrigo Javier De Paul,7,39,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+105.1,64.1,104.4,66,Nahuel Molina Lucero,7,40,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+104.4,66,84.8,47.8,Nahuel Molina Lucero,7,41,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+84.8,47.8,82.6,45.1,Leandro Daniel Paredes,7,42,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+82.6,45.1,87.8,50.6,Leandro Daniel Paredes,7,43,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+87.8,50.6,87.1,51.9,Alexis Mac Allister,7,44,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+87.1,51.9,92.9,64.5,Alexis Mac Allister,7,45,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+92.9,64.5,95.2,64.5,Rodrigo Javier De Paul,7,46,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+95.2,64.5,86.9,58.1,Rodrigo Javier De Paul,7,47,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+86.9,58.1,87.3,55.3,Alexis Mac Allister,7,48,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+87.3,55.3,78.3,41.4,Alexis Mac Allister,7,49,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+78.3,41.4,77.1,38.2,Leandro Daniel Paredes,7,50,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+77.1,38.2,86,22.6,Leandro Daniel Paredes,7,51,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+86,22.6,97.4,29.5,Enzo Fernandez,7,52,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+97.4,29.5,103.6,29.5,Enzo Fernandez,7,53,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+103.6,29.5,106,33.5,Julián Álvarez,7,54,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+106,33.5,120,43.3,Julián Álvarez,7,55,Julián Álvarez,00:21:57.855,2022-11-30,Poland
+7,36.1,35.7,44.2,Damián Emiliano Martínez,8,1,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+50.9,51.7,64.8,74.8,Enzo Fernandez,8,2,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+64.8,74.8,69.8,75.4,Nahuel Molina Lucero,8,3,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+69.8,75.4,76.6,78.3,Nahuel Molina Lucero,8,4,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+76.6,78.3,80.2,77.7,Ángel Fabián Di María Hernández,8,5,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+80.2,77.7,72,72.3,Ángel Fabián Di María Hernández,8,6,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+72,72.3,74.1,69.8,Lionel Andrés Messi Cuccittini,8,7,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+74.1,69.8,81,58.2,Lionel Andrés Messi Cuccittini,8,8,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+81,58.2,82.7,63.3,Enzo Fernandez,8,9,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+82.7,63.3,90.6,76,Enzo Fernandez,8,10,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+90.6,76,97.4,68.5,Ángel Fabián Di María Hernández,8,11,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+97.4,68.5,93.3,37.6,Ángel Fabián Di María Hernández,8,12,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+93.3,37.6,94.9,37.4,Lionel Andrés Messi Cuccittini,8,13,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+94.9,37.4,120,43.7,Lionel Andrés Messi Cuccittini,8,14,Lionel Andrés Messi Cuccittini,00:18:32.183,2022-11-26,Mexico
+120,0.1,110.9,7.8,Rodrigo Javier De Paul,9,1,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+110.9,7.8,108.9,8.8,Lionel Andrés Messi Cuccittini,9,2,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+108.9,8.8,100.7,17.3,Lionel Andrés Messi Cuccittini,9,3,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+100.7,17.3,105.3,23.9,Enzo Fernandez,9,4,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+105.3,23.9,106.5,22.8,Enzo Fernandez,9,5,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+106.5,22.8,120,43.1,Enzo Fernandez,9,6,Enzo Fernandez,00:41:39.636,2022-11-26,Mexico
+33.9,36.1,34.3,36.3,Lionel Andrés Messi Cuccittini,10,1,Julián Álvarez,00:38:26.300,2022-12-13,Croatia
+55.7,30.1,102.3,36.7,Julián Álvarez,10,2,Julián Álvarez,00:38:26.300,2022-12-13,Croatia
+111,36.5,112.7,37.4,Julián Álvarez,10,3,Julián Álvarez,00:38:26.300,2022-12-13,Croatia
+112.7,37.4,120,36.8,Julián Álvarez,10,4,Julián Álvarez,00:38:26.300,2022-12-13,Croatia
+42.5,80,63.6,76.2,Nahuel Molina Lucero,11,1,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+64.1,76.4,65.3,79.1,Julián Álvarez,11,2,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+65.3,79.1,68.5,77.6,Lionel Andrés Messi Cuccittini,11,3,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+68.5,77.6,116.1,59.6,Lionel Andrés Messi Cuccittini,11,4,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+116.1,59.6,116.9,53.1,Lionel Andrés Messi Cuccittini,11,5,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+116.9,53.1,113.3,45.4,Lionel Andrés Messi Cuccittini,11,6,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
+113.3,45.4,120,40.3,Julián Álvarez,11,7,Julián Álvarez,00:23:46.955,2022-12-13,Croatia
